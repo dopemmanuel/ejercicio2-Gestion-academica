@@ -6,3 +6,4 @@ open class Persona(val nombre: String, val edad: Int, val id: String, val rol: S
         return "$nombre es un $rol de edad $edad."
     }
 }
+
